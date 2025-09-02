@@ -49,7 +49,8 @@
         "z": -51.949062143731986
       },
       "threat_score": 0.24,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_1",
@@ -66,7 +67,8 @@
         "z": -20.447586254675116
       },
       "threat_score": 0.25,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_2",
@@ -83,7 +85,8 @@
         "z": -80.18235451129365
       },
       "threat_score": 0.26,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_3",
@@ -100,7 +103,8 @@
         "z": 73.09038766662971
       },
       "threat_score": 0.27,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_4",
@@ -117,7 +121,8 @@
         "z": -70.86579659662542
       },
       "threat_score": 0.28,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_5",
@@ -134,7 +139,8 @@
         "z": 72.95018456019932
       },
       "threat_score": 0.29,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_6",
@@ -151,7 +157,8 @@
         "z": 74.20235187584268
       },
       "threat_score": 0.3,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_7",
@@ -168,7 +175,8 @@
         "z": -99.82753149501278
       },
       "threat_score": 0.31,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_8",
@@ -185,7 +193,8 @@
         "z": 99.22205589739781
       },
       "threat_score": 0.32,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_9",
@@ -202,7 +211,8 @@
         "z": -14.05962954494673
       },
       "threat_score": 0.33,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_10",
@@ -219,7 +229,8 @@
         "z": 22.31755234767465
       },
       "threat_score": 0.1,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_11",
@@ -236,7 +247,8 @@
         "z": -91.72691816000153
       },
       "threat_score": 0.11,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_12",
@@ -253,7 +265,8 @@
         "z": 57.2906999680298
       },
       "threat_score": 0.12,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_13",
@@ -270,7 +283,8 @@
         "z": 84.30048361087094
       },
       "threat_score": 0.13,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_14",
@@ -287,7 +301,8 @@
         "z": 83.07918647927269
       },
       "threat_score": 0.14,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_15",
@@ -304,7 +319,8 @@
         "z": 38.78584191535501
       },
       "threat_score": 0.15,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_16",
@@ -321,7 +337,8 @@
         "z": -42.60515455388874
       },
       "threat_score": 0.16,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_17",
@@ -338,7 +355,8 @@
         "z": -72.45488642056975
       },
       "threat_score": 0.17,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_18",
@@ -355,7 +373,8 @@
         "z": -37.32911154310534
       },
       "threat_score": 0.18,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_19",
@@ -372,7 +391,8 @@
         "z": 91.83963314778171
       },
       "threat_score": 0.19,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_20",
@@ -389,7 +409,8 @@
         "z": 91.99161501230898
       },
       "threat_score": 0.2,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_21",
@@ -406,7 +427,8 @@
         "z": -60.12255320170634
       },
       "threat_score": 0.21,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_22",
@@ -423,7 +445,8 @@
         "z": -55.160448148948205
       },
       "threat_score": 0.22,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_23",
@@ -440,7 +463,8 @@
         "z": -44.38161226125506
       },
       "threat_score": 0.23,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_24",
@@ -457,7 +481,8 @@
         "z": -73.35608150354891
       },
       "threat_score": 0.24,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_25",
@@ -474,7 +499,8 @@
         "z": -65.06340303451121
       },
       "threat_score": 0.25,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_26",
@@ -491,7 +517,8 @@
         "z": -86.62372747848353
       },
       "threat_score": 0.26,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_27",
@@ -508,7 +535,8 @@
         "z": 70.83727773498052
       },
       "threat_score": 0.27,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_28",
@@ -525,7 +553,8 @@
         "z": -34.58124198070725
       },
       "threat_score": 0.28,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_29",
@@ -542,7 +571,8 @@
         "z": -83.84371432375922
       },
       "threat_score": 0.29,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_30",
@@ -559,7 +589,8 @@
         "z": -73.9158729833768
       },
       "threat_score": 0.3,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_31",
@@ -576,7 +607,8 @@
         "z": -31.22849946001071
       },
       "threat_score": 0.31,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_32",
@@ -593,7 +625,8 @@
         "z": -70.16421976482124
       },
       "threat_score": 0.32,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_33",
@@ -610,7 +643,8 @@
         "z": -60.64600082242828
       },
       "threat_score": 0.33,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_34",
@@ -627,7 +661,8 @@
         "z": -0.9714073225143949
       },
       "threat_score": 0.34,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_35",
@@ -644,7 +679,8 @@
         "z": -51.71603496318924
       },
       "threat_score": 0.35,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_36",
@@ -661,7 +697,8 @@
         "z": 72.60254994898867
       },
       "threat_score": 0.36,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_37",
@@ -678,7 +715,8 @@
         "z": 62.48054908201232
       },
       "threat_score": 0.37,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_38",
@@ -695,7 +733,8 @@
         "z": 27.549710243106844
       },
       "threat_score": 0.38,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_39",
@@ -712,7 +751,8 @@
         "z": -89.29006727139762
       },
       "threat_score": 0.39,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_40",
@@ -729,7 +769,8 @@
         "z": 74.33650584324997
       },
       "threat_score": 0.4,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_41",
@@ -746,7 +787,8 @@
         "z": -58.46010063440623
       },
       "threat_score": 0.41,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_42",
@@ -763,7 +805,8 @@
         "z": -53.50436861717878
       },
       "threat_score": 0.42,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_43",
@@ -780,7 +823,8 @@
         "z": 35.976403552565074
       },
       "threat_score": 0.43,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_44",
@@ -797,7 +841,8 @@
         "z": -65.9746884501489
       },
       "threat_score": 0.44,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_45",
@@ -814,7 +859,8 @@
         "z": 93.46617966675254
       },
       "threat_score": 0.45,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_46",
@@ -831,7 +877,8 @@
         "z": -78.46540090023717
       },
       "threat_score": 0.46,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_47",
@@ -848,7 +895,8 @@
         "z": 78.64022195814917
       },
       "threat_score": 0.47,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_48",
@@ -865,7 +913,8 @@
         "z": -85.30887889072669
       },
       "threat_score": 0.48,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_49",
@@ -882,7 +931,8 @@
         "z": 6.09349929822794
       },
       "threat_score": 0.49,
-      "status": "benign"
+      "status": "benign",
+      "network_id": "net_nod"
     },
     {
       "id": "node_50",
@@ -899,7 +949,8 @@
         "z": -26.31243013680431
       },
       "threat_score": 0.5,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_51",
@@ -916,7 +967,8 @@
         "z": -77.21064874604184
       },
       "threat_score": 0.51,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_52",
@@ -933,7 +985,8 @@
         "z": 67.13762248206046
       },
       "threat_score": 0.52,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_53",
@@ -950,7 +1003,8 @@
         "z": -63.066342921777995
       },
       "threat_score": 0.53,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_54",
@@ -967,7 +1021,8 @@
         "z": -80.0935479483049
       },
       "threat_score": 0.54,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_55",
@@ -984,7 +1039,8 @@
         "z": 71.76950136380711
       },
       "threat_score": 0.55,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_56",
@@ -1001,7 +1057,8 @@
         "z": 83.86612332319646
       },
       "threat_score": 0.56,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_57",
@@ -1018,7 +1075,8 @@
         "z": 62.82943928863111
       },
       "threat_score": 0.57,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_58",
@@ -1035,7 +1093,8 @@
         "z": 1.5390792617768057
       },
       "threat_score": 0.58,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_59",
@@ -1052,7 +1111,8 @@
         "z": 90.2909718931802
       },
       "threat_score": 0.59,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_60",
@@ -1069,7 +1129,8 @@
         "z": 99.94984185539042
       },
       "threat_score": 0.6,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_61",
@@ -1086,7 +1147,8 @@
         "z": -61.409033309163405
       },
       "threat_score": 0.61,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_62",
@@ -1103,7 +1165,8 @@
         "z": -71.79426709440453
       },
       "threat_score": 0.62,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_63",
@@ -1120,7 +1183,8 @@
         "z": 11.37324717755024
       },
       "threat_score": 0.63,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_64",
@@ -1137,7 +1201,8 @@
         "z": -84.37175555152525
       },
       "threat_score": 0.64,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_65",
@@ -1154,7 +1219,8 @@
         "z": 22.211081288382843
       },
       "threat_score": 0.65,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_66",
@@ -1171,7 +1237,8 @@
         "z": 56.31087066248858
       },
       "threat_score": 0.66,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_67",
@@ -1188,7 +1255,8 @@
         "z": -60.88208091053413
       },
       "threat_score": 0.67,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_68",
@@ -1205,7 +1273,8 @@
         "z": 27.38137443151554
       },
       "threat_score": 0.68,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_69",
@@ -1222,7 +1291,8 @@
         "z": -40.701495469372674
       },
       "threat_score": 0.69,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_70",
@@ -1239,7 +1309,8 @@
         "z": 85.36890315959457
       },
       "threat_score": 0.7,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_71",
@@ -1256,7 +1327,8 @@
         "z": 9.08446704304231
       },
       "threat_score": 0.71,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_72",
@@ -1273,7 +1345,8 @@
         "z": 11.45393720647894
       },
       "threat_score": 0.72,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_73",
@@ -1290,7 +1363,8 @@
         "z": -45.31290466075841
       },
       "threat_score": 0.73,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_74",
@@ -1307,7 +1381,8 @@
         "z": 0.5463040733679918
       },
       "threat_score": 0.74,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_75",
@@ -1324,7 +1399,8 @@
         "z": -5.8678274986264825
       },
       "threat_score": 0.75,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_76",
@@ -1341,7 +1417,8 @@
         "z": 10.37175840060884
       },
       "threat_score": 0.76,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_77",
@@ -1358,7 +1435,8 @@
         "z": -51.75263532592105
       },
       "threat_score": 0.77,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_78",
@@ -1375,7 +1453,8 @@
         "z": -81.94255160489735
       },
       "threat_score": 0.78,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_79",
@@ -1392,7 +1471,8 @@
         "z": -87.15309830545037
       },
       "threat_score": 0.79,
-      "status": "suspicious"
+      "status": "suspicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_80",
@@ -1409,7 +1489,8 @@
         "z": 72.55155768917987
       },
       "threat_score": 0.8,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_81",
@@ -1426,7 +1507,8 @@
         "z": -19.950227290113375
       },
       "threat_score": 0.81,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_82",
@@ -1443,7 +1525,8 @@
         "z": -36.6759374788445
       },
       "threat_score": 0.82,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_83",
@@ -1460,7 +1543,8 @@
         "z": -23.991667259863576
       },
       "threat_score": 0.83,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_84",
@@ -1477,7 +1561,8 @@
         "z": 21.547466069203722
       },
       "threat_score": 0.84,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_85",
@@ -1494,7 +1579,8 @@
         "z": -98.2582329091253
       },
       "threat_score": 0.85,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_86",
@@ -1511,7 +1597,8 @@
         "z": -11.395182334368243
       },
       "threat_score": 0.86,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_87",
@@ -1528,7 +1615,8 @@
         "z": -17.616193947669018
       },
       "threat_score": 0.87,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_88",
@@ -1545,7 +1633,8 @@
         "z": -58.19494188592949
       },
       "threat_score": 0.88,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_89",
@@ -1562,7 +1651,8 @@
         "z": 23.312424309477308
       },
       "threat_score": 0.89,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_90",
@@ -1579,7 +1669,8 @@
         "z": 39.78853583390725
       },
       "threat_score": 0.9,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_91",
@@ -1596,7 +1687,8 @@
         "z": -23.97194148200083
       },
       "threat_score": 0.91,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_92",
@@ -1613,7 +1705,8 @@
         "z": -10.61645092375933
       },
       "threat_score": 0.92,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_93",
@@ -1630,7 +1723,8 @@
         "z": -51.57759840002174
       },
       "threat_score": 0.93,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_94",
@@ -1647,7 +1741,8 @@
         "z": 11.145696465718729
       },
       "threat_score": 0.94,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_95",
@@ -1664,7 +1759,8 @@
         "z": 11.46471758660796
       },
       "threat_score": 0.95,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_96",
@@ -1681,7 +1777,8 @@
         "z": 90.15843642320729
       },
       "threat_score": 0.96,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_97",
@@ -1698,7 +1795,8 @@
         "z": -54.42312195943917
       },
       "threat_score": 0.97,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_98",
@@ -1715,7 +1813,8 @@
         "z": -86.22828781513445
       },
       "threat_score": 0.98,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     },
     {
       "id": "node_99",
@@ -1732,7 +1831,8 @@
         "z": 16.61736184931965
       },
       "threat_score": 0.99,
-      "status": "malicious"
+      "status": "malicious",
+      "network_id": "net_nod"
     }
   ],
   "edges": [
@@ -3727,5 +3827,5 @@
       "weight": 1.0
     }
   ],
-  "updated_at": "2025-09-02T03:28:47.712619+00:00"
+  "updated_at": "2025-09-02T03:33:25.537026+00:00"
 }
